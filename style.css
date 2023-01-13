@@ -213,8 +213,11 @@ html, body {
     .description button {
         padding:15px 25px;
     }
+    .description .partners {
+        padding: 15px;
+    }
     .description .partners ul li img{
-        width: 110px;
+        width: 95px;
     }
     
 }
